@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+}
+
+body {
+  overflow: hidden;
+  color: white;
+}
+
+.milkyway {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.9;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("./sky.jpg");
+  background-color: #282834;
+}
